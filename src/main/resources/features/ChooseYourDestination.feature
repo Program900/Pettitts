@@ -3,7 +3,7 @@ Feature: ChooseyourDestination
   As a Leisure Travel
   I want to Choose Destination
 
-  @mytag
+  @sanity
   Scenario: Count Destination
     Given I am on HomePage
     And  I have  ChooseyourDestination
